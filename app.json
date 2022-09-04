@@ -4,6 +4,7 @@
     "slug": "dating-movie-site",
     "version": "1.0.0",
     "orientation": "portrait",
+    "owner":"katlyn627",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
