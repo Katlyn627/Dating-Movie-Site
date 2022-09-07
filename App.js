@@ -1,10 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import t from "tailwind-rn";
+import { s } from "react-native-wind";
+
 
 export default function App() {
   return (
-    <View style={styles.container}>
+    <View style={s`text-color-green`}>
       <Text>Here is my Dating App!! Lets hope it works!!</Text>
       <StatusBar style="auto" />
     </View>
